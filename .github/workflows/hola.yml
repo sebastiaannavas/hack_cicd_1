@@ -12,4 +12,4 @@ jobs:
     steps:
       
     - name: Say Hola Mundo
-      run: echo "¡Hola mundo! Se ha realizado un push a la rama main.
+      run: echo "¡Hola mundo! Se ha realizado un push a la rama main."
