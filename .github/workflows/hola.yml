@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Download Source
-      uses: actions/checkout@v4
       
     - name: Say Hola Mundo
-      run: echo "¡Hola mundo! Se ha realizado un push a la rama main."
+      run: echo "¡Hola mundo! Se ha realizado un push a la rama main.
